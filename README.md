@@ -5,7 +5,7 @@ This project sets up a local application using the Plaid API Quickstart (without
 
 ---
 
-## **XP Gained**
+## **XP Gained**!
 
 ### **API Integration**  
 - Connected to the Plaid API to create an Item and retrieve account data.  
